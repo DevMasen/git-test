@@ -31,3 +31,9 @@ h1{
         transform: scale(0.9);
     }
 }
+
+article{
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 2rem;
+}
