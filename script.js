@@ -24,3 +24,5 @@ console.log(formatedDate);
 
 const html = `<h3>Enter Time : ${formatedDate}</h3>`;
 document.body.insertAdjacentHTML('beforeend',html);
+
+// Task: make a feature. i don't know just do something bitch
