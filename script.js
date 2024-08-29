@@ -7,8 +7,8 @@ const generateColor = () =>
 	`rgb(${randInt(0, 255)},${randInt(0, 255)},${randInt(0, 255)})`;
 
 btn.addEventListener("click", () => {
-	const randomColor = generateColor();
-	btn.style.backgroundColor = randomColor;
+	btn.style.backgroundColor = generateColor();
+    body.style.backgroundColor = generateColor();
 });
 
 // This change detechted from github by DevMasen
@@ -26,3 +26,5 @@ const html = `<h3>Enter Time : ${formatedDate}</h3>`;
 document.body.insertAdjacentHTML('beforeend',html);
 
 // Task: make a feature. i don't know just do something bitch
+
+// Functionality of button changed and refactored
