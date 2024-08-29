@@ -33,7 +33,8 @@ h1{
 }
 
 article{
+    padding: 0 10rem;
     text-align: center;
-    font-size: 1rem;
+    font-size: 2rem;
     margin-top: 2rem;
 }
