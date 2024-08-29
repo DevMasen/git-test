@@ -8,7 +8,7 @@ const generateColor = () =>
 
 btn.addEventListener("click", () => {
 	btn.style.backgroundColor = generateColor();
-    body.style.backgroundColor = generateColor();
+    document.body.style.backgroundColor = generateColor();
 });
 
 // This change detechted from github by DevMasen
