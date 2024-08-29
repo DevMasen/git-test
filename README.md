@@ -98,3 +98,6 @@ Right aligned columns
 ::: warning
 *here be dragons*
 :::
+
+## Image
+![git-explain](./img/git.png)
