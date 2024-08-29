@@ -11,6 +11,7 @@ body{
 h1{
     text-align: center;
     color: blue;
+    border: 1px solid #345;
 }
 
 .btn-container{
