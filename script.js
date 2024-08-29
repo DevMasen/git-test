@@ -10,3 +10,6 @@ btn.addEventListener("click", () => {
 	const randomColor = generateColor();
 	btn.style.backgroundColor = randomColor;
 });
+
+// This change detechted from github by DevMasen
+// Please add some feature and push again.
