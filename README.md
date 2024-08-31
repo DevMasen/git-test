@@ -60,6 +60,11 @@ const func = function(){
 };
 ```
 
+```diff
++ const x = 10;
+- const y = 20;
+```
+
 ## Typography
 _Italic Text_ <br>
 *Italic Text 2* <br> 
