@@ -1,3 +1,6 @@
+# All about important git commands and markdown sintax 🔮
+
+# Markdown templates 👇 : 
 # This is a title h1
 ## This is a title h2
 ### This is a title h3
